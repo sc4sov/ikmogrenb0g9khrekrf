@@ -25,7 +25,7 @@
       - Fixed bug isHotKeyHotKey
       - Deleted block-functions
 ]]
-script_version("123123123")
+script_name("fixed_rkeys")
 local vkeys = require 'vkeys'
 
 vkeys.key_names[vkeys.VK_LMENU] = "LAlt"
